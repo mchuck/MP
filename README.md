@@ -21,4 +21,5 @@ W związku z odwołaniem zajęć stacjonarnych na UJ, kurs przechodzi tymczasowo
 
 ### Deadline zadań na ćwiczenia:
 
-- Ćw 1. oraz Ćw 2. - *20.03.2020*
+- Ćw 1. oraz Ćw 2. - **20.03.2020**
+- Ćw 3. - **27.03.2020**
