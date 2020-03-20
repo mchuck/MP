@@ -12,8 +12,9 @@ Zasady zaliczenia przedmiotu można znaleźć na platformie **PEGAZ**.
 
 ## Ćwiczenia
 
-- [06.02.2020 - Podstawowe algorytmy](lectures/01.md)
-- [13.02.2020 - Tablice](lectures/02.md)
+- [06.03.2020 - Podstawowe algorytmy](lectures/01.md)
+- [13.03.2020 - Tablice](lectures/02.md)
+- [20.03.2020 - ADT](lectures/03.md)
 
 ## COVID-19
 
