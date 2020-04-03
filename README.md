@@ -12,10 +12,10 @@ Zasady zaliczenia przedmiotu można znaleźć na platformie **PEGAZ**.
 
 ## Ćwiczenia
 
-- [06.03.2020 - Podstawowe algorytmy](lectures/01.md)
-- [13.03.2020 - Tablice](lectures/02.md)
-- [20.03.2020 - ADT](lectures/03.md)
-- [27.03.2020 - Wiązane ADT](lectures/04.md)
+- [06.03.2020 - Zestaw 1. Podstawowe algorytmy](lectures/01.md)
+- [13.03.2020 - Zestaw 2. Tablice](lectures/02.md)
+- [20.03.2020 - Zestaw 3. ADT](lectures/03.md)
+- [27.03.2020 - Zestaw 4. Wiązane ADT](lectures/04.md)
 
 ## COVID-19
 
@@ -23,6 +23,7 @@ W związku z odwołaniem zajęć stacjonarnych na UJ, kurs przechodzi tymczasowo
 
 ### Deadline zadań na ćwiczenia:
 
-- Ćw 1. oraz Ćw 2. - **20.03.2020**
-- Ćw 3. - **27.03.2020**
-- Ćw 4. - **03.04.2020**
+- Zestaw 1. oraz 2. - **20.03.2020 23:59**
+- Zestaw 3. - **27.03.2020 23:59**
+- Zestaw 4. - **03.04.2020 23:59**
+- Zestaw 5. - **17.04.2020 23:59**
