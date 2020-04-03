@@ -16,10 +16,11 @@ Zasady zaliczenia przedmiotu można znaleźć na platformie **PEGAZ**.
 - [13.03.2020 - Zestaw 2. Tablice](lectures/02.md)
 - [20.03.2020 - Zestaw 3. ADT](lectures/03.md)
 - [27.03.2020 - Zestaw 4. Wiązane ADT](lectures/04.md)
+- [27.03.2020 - Zestaw 5. Rekurencja](lectures/05.md)
 
 ## COVID-19
 
-W związku z odwołaniem zajęć stacjonarnych na UJ, kurs przechodzi tymczasowo w tryb zdalny. Zadania z danego tygodnia należy przesyłać do mnie mailem, z tytułem `[MP Ćw. 2] <imię_nazwisko>`. Bardzo proszę o wysyłanie tylko plików z klasami, w których jest rozwiązanie, a nie całych projektów. Niedostarczenie zadań w terminie bez podania sensownej przyczyny będzie skutkować **brakiem obecności** na danych ćwiczeniach.
+W związku z odwołaniem zajęć stacjonarnych na UJ, kurs przechodzi tymczasowo w tryb zdalny. Zadania z danego tygodnia należy przesyłać do mnie mailem, z tytułem `[MP Zstw. 2] <imię_nazwisko>`. Bardzo proszę o wysyłanie tylko plików z klasami, w których jest rozwiązanie, a nie całych projektów. Niedostarczenie zadań w terminie bez podania sensownej przyczyny będzie skutkować **brakiem obecności** na danych ćwiczeniach.
 
 ### Deadline zadań na ćwiczenia:
 
