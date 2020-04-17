@@ -17,6 +17,7 @@ Zasady zaliczenia przedmiotu można znaleźć na platformie **PEGAZ**.
 - [20.03.2020 - Zestaw 3. ADT](lectures/03.md)
 - [27.03.2020 - Zestaw 4. Wiązane ADT](lectures/04.md)
 - [03.04.2020 - Zestaw 5. Rekurencja](lectures/05.md)
+- [17.04.2020 - Zestaw 6. QuickSort](lectures/06.md)
 
 ## COVID-19
 
