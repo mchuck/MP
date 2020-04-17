@@ -29,3 +29,4 @@ W związku z odwołaniem zajęć stacjonarnych na UJ, kurs przechodzi tymczasowo
 - Zestaw 3. - **27.03.2020 23:59**
 - Zestaw 4. - **03.04.2020 23:59**
 - Zestaw 5. - **17.04.2020 23:59**
+- Zestaw 6. - **24.04.2020 23:59**
