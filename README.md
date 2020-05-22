@@ -20,6 +20,7 @@ Zasady zaliczenia przedmiotu można znaleźć na platformie **PEGAZ**.
 - [17.04.2020 - Zestaw 6. QuickSort](lectures/06.md)
 - [24.04.2020 - Zestaw 7. Sortowania zaawansowane i pozycyjne](lectures/07.md)
 - [15.05.2020 - Zestaw 8. Drzewa](lectures/08.md)
+- [22.05.2020 - Zestaw 9. Sterty](lectures/09.md)
 
 ## COVID-19
 
@@ -34,3 +35,4 @@ W związku z odwołaniem zajęć stacjonarnych na UJ, kurs przechodzi tymczasowo
 - Zestaw 6. - **24.04.2020 23:59**
 - Zestaw 7. - **08.05.2020 23.59**
 - Zestaw 8. - **22.05.2020 23.59**
+- Zestaw 9. - **29.05.2020 23.59**
